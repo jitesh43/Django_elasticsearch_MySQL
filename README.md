@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parliament Elections Project
 
 This project is a online voting system which serves the full functionality of Parliament Elections conducted in an institute. It is Django Framework in Python and RDBMS is built in MySQL.
@@ -31,3 +32,6 @@ The details of the project are as follows:
 * **MySQL-python** version : *1.2.5*
 
 Refer to [Requirements.pdf](https://github.com/interritus1996/dbms-project-parliament-elections/blob/master/Requirements.pdf) and [Readme.pdf](https://github.com/interritus1996/dbms-project-parliament-elections/blob/master/readme.pdf) for more details.
+=======
+# Django_elastiicsearch_MySQL
+>>>>>>> 5ca4fb168b9899ca64dec39ac356e7859e78b110
